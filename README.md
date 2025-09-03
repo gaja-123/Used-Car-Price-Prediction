@@ -161,7 +161,7 @@ This project develops a machine learning model to predict used car prices accura
 
 ### Running the Project
 1. Clone the repo: `git clone https://github.com/gaja-123/Used-Car-Price-Prediction.git`
-2. Download dataset from Kaggle and place in `/data/`.
+2. Download dataset from Kaggle `https://www.kaggle.com/competitions/playground-series-s4e9/data` 
 3. Run Notebooks: Execute individual notebooks for each model (e.g., LGBM, XGBoost, CatBoost, RF, KNN). Each file represents a modular component of the pipeline, allowing focused experimentation, tuning, and comparison.
 
 
